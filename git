@@ -1,4 +1,5 @@
 #Git
+--------
 ->Git is a version control.
 ->Track all the changes even if you make changes.
 ->It has a work directory,- is where you make changes on.
@@ -13,3 +14,30 @@ by pushing to pulling from the shared resource.
 ->Pull request is the way to propose changes from one branch to another.
 -Merging is integrating changed from one branch into another. It combine the hostories of both branches creating a single unified history.
 
+configuration the git
+-----------------------
+
+-configure user name - git config  --global user.name "username"
+-configure uder email - git config --global user.email "useremail"
+-git config --global alias.init
+
+
+Common git commands and what they do
+--------------------------------------
+
+-git config --list - check last configuration.
+-git init - create a git repository locally, first command to run in a new project.
+-git status - allow tracking of changes.
+-git add . - add all changes from the working directory to the staging area,
+git commit -m "describe change you made" - store a version of your project  in the git history
+-git clone - make a copy of a project from a remote storage to your local machine.
+github
+-----------
+
+-Github is a platform that allow developers to collaborate on a project and store their code in the cloud.
+-Git and github work together to make building, scaling,securing and storing software much easier.
+
+
+Top git command
+----------------
+-
