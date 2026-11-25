@@ -31,6 +31,7 @@ Common git commands and what they do
 -git add . - add all changes from the working directory to the staging area,
 git commit -m "describe change you made" - store a version of your project  in the git history
 -git clone - make a copy of a project from a remote storage to your local machine.
+
 github
 -----------
 
@@ -40,4 +41,7 @@ github
 
 Top git command
 ----------------
--
+- git checkout -b branch-name - create branch 
+git branch - list branches
+- git switch branch-name - facilitate switching from one branch to another.
+- 
