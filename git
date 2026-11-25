@@ -1,7 +1,7 @@
 #Git
 ->Git is a version control.
 ->Track all the changes even if you make changes.
-->It has a work directory,
+->It has a work directory,- is where you make changes on.
 ->It also have a staging area/index where changes is
   prepared before commiting them it allow review of changes before making it part of the project history.
 ->Local repository is project history story on local computer, it includes the commits, and branches.
@@ -9,5 +9,7 @@
 ->Remote repositry is version of your project hosted on the internet or network. It allow multiple people to collaborate,
 by pushing to pulling from the shared resource.
 ->Branches are parallel version of your project.
- They allow fixing of feature and fixes independently, without affecting the main project, until it is ready to match it back.
+ They allow fixing different feature and fixes independently, without affecting the main project, until it is ready to match it back.
 ->Pull request is the way to propose changes from one branch to another.
+-Merging is integrating changed from one branch into another. It combine the hostories of both branches creating a single unified history.
+
